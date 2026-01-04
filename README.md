@@ -3,7 +3,7 @@
 ### Overview
 This project is a high-density agent simulation built in Modern C++ (C++17/20) using the SFML graphics library. It serves as a technical showcase for **spatial partitioning**, **multi-core concurrency**, and **graphics pipeline optimization**. 
 
-![til](boidsanimation.gif)
+![Boids Simulation](https://github.com/anderson-ryan352/cpp-high-performance-boids/releases/download/v1.0.0/boidsanimation.gif)
 
 ### The Performance Benchmark
 By migrating from a naive $O(n^2)$ proximity check to a specialized **Quadtree Spatial Partitioning** architecture, I achieved a **200x increase in agent throughput**:
